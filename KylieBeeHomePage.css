@@ -1,0 +1,39 @@
+html{
+	background: url("gasparillaship.png") no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	  padding:0;
+}
+.words{
+	font-size:400%;
+	text-align:center;
+	color:white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	height:100px;
+	font-family:Cormorant Unicase;
+}
+address{
+	font-size:100%;
+	text-align:right;
+	color:white;
+	position:absolute;
+	bottom:0;
+	right:0;
+	font-family:Cormorant Unicase;
+}
+a:link{
+	color:white;
+	text-decoration:none;
+	
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:black;
+}
